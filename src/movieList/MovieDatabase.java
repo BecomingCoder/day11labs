@@ -28,7 +28,7 @@ public class MovieDatabase {
             
         }
 
-       
+       sc.close();
 	}
 
 }
